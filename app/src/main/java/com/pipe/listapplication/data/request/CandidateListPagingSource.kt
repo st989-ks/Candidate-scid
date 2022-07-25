@@ -27,7 +27,7 @@ class CandidateListPagingSource @Inject constructor(
             )
         } catch (throwable: Throwable) {
             val errorThrowable = Throwable(
-                "Something Went Wrong Please Try again later.",
+                "",
                 Throwable("Processing Error")
             )
             return LoadResult.Error(errorThrowable)
