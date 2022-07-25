@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_card_min">52dp</dimen>
+    <dimen name="bar_height">78dp</dimen>
+    <dimen name="elevation_card">8dp</dimen>
+    <dimen name="normal_text">18sp</dimen>
+    <dimen name="height_text">20dp</dimen>
+    <dimen name="spacing_text">5dp</dimen>
+    <dimen name="padding_for_top_name">40dp</dimen>
+    <dimen name="margin_standard">17dp</dimen>
+</resources>
